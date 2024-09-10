@@ -1,0 +1,360 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Skill</span> Set",
+      "description": "Exploring the diverse range of skills I've acquired and developed:"
+    },
+    "es": {
+      "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+      "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+    },
+    "fr": {
+      "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+      "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+    },
+    "zh": {
+      "title": "<span class='text-primary'>技能</span> 集",
+      "description": "探索我所掌握和发展的多样技能:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "abilities",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa-solid fa-square",
+      "locales": {
+        "en": { "title": null }
+      }
+    },
+
+    {
+      "id": "programming",
+      "type": "grid",
+      "progress": "number",
+      "faIcon": "fa fa-code",
+      "locales": {
+        "en": { "title": "Programming" },
+        "es": { "title": "Programación" },
+        "fr": { "title": "Programmation" },
+        "zh": { "title": "编程" }
+      }
+    },
+
+    {
+      "id": "languages",
+      "type": "list",
+      "progress": {
+        "0": "beginner",
+        "20": "rookie",
+        "40": "intermediate",
+        "60": "advanced",
+        "80": "fluent",
+        "100": "native"
+      },
+      "faIcon": "fa fa-language",
+      "locales": {
+        "en": { "title": "Languages" },
+        "es": { "title": "Idiomas" },
+        "fr": { "title": "Langues" },
+        "zh": { "title": "语言" }
+      }
+    },
+
+    {
+      "id": "extra",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa fa-marker",
+      "locales": {
+        "en": { "title": "Bonus Skills" },
+        "es": { "title": "Habilidades Adicionales" },
+        "fr": { "title": "Plus Habiletés" },
+        "zh": { "title": "附加技能" }
+      }
+    }
+  ],
+
+  "items": {
+    "abilities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-tablet-screen-button",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Web Development",
+            "description": "Experienced MEVN stack developer specializing in creating dynamic, scalable web applications with Vue.js, Express.js, MongoDB, and Node.js."
+          },
+          "es": {
+            "title": "Desarrollo Web",
+            "description": "Desarrollador experimentado en el stack MEVN, especializado en la creación de aplicaciones web dinámicas y escalables con Vue.js, Express.js, MongoDB y Node.js."
+          },
+          "fr": {
+            "title": "Développement Web",
+            "description": "Développeur MEVN expérimenté, spécialisé dans la création d'applications web dynamiques et évolutives avec Vue.js, Express.js, MongoDB et Node.js."
+          },
+          "zh": {
+            "title": "网页开发",
+            "description": "经验丰富的MEVN栈开发者，专注于使用Vue.js、Express.js、MongoDB和Node.js创建动态、可扩展的网页应用程序。"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-link",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Blockchain Technology",
+            "description": "Experienced in blockchain technology with a solid understanding of its fundamentals."
+          },
+          "es": {
+            "title": "Tecnología Blockchain",
+            "description": "Experto en tecnología blockchain con un sólido conocimiento de sus fundamentos."
+          },
+          "fr": {
+            "title": "Technologie Blockchain",
+            "description": "Expérimenté en technologie blockchain avec une solide compréhension de ses fondamentaux."
+          },
+          "zh": {
+            "title": "区块链技术",
+            "description": "具有区块链技术的经验，对其基本原理有扎实的理解。"
+          }
+        }
+      }
+    ],
+
+    "programming": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-html5",
+        "value": 95,
+        "locales": {
+          "en": {
+            "title": "HTML 5",
+            "description": "Experience Time: 5 years"
+          },
+          "es": { "title": "HTML 5", "description": "Experiencia: 5 años" },
+          "fr": { "title": "HTML 5", "description": "Expérience : 5 ans" },
+          "zh": { "title": "HTML 5", "description": "经验时长：5年" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-css3-alt",
+        "value": 90,
+        "locales": {
+          "en": { "title": "CSS", "description": "Experience Time: 3 years" },
+          "es": { "title": "CSS", "description": "Experiencia: 3 años" },
+          "fr": { "title": "CSS", "description": "Expérience : 3 ans" },
+          "zh": { "title": "CSS", "description": "经验时长：3年" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-vector-square",
+        "value": 75,
+        "locales": {
+          "en": {
+            "title": "Ant Design",
+            "description": "Experience Time: 2 years"
+          },
+          "es": { "title": "Ant Design", "description": "Experiencia: 2 años" },
+          "fr": { "title": "Ant Design", "description": "Expérience : 2 ans" },
+          "zh": { "title": "Ant Design", "description": "经验时长：2年" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-js-square",
+        "value": 85,
+        "locales": {
+          "en": {
+            "title": "JavaScript",
+            "description": "Experience Time: 3 years"
+          },
+          "es": { "title": "JavaScript", "description": "Experiencia: 3 años" },
+          "fr": { "title": "JavaScript", "description": "Expérience : 3 ans" },
+          "zh": { "title": "JavaScript", "description": "经验时长：3年" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 100,
+        "locales": {
+          "en": {
+            "title": "Vue js",
+            "description": "Experience Time: 2 years"
+          },
+          "es": { "title": "Vue js", "description": "Experiencia: 2 años" },
+          "fr": { "title": "Vue js", "description": "Expérience : 2 ans" },
+          "zh": { "title": "Vue js", "description": "经验时长：2年" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-brands fa-node",
+        "value": 75,
+        "locales": {
+          "en": { "title": "Node js", "description": "Expérience : 1 year" },
+          "es": { "title": "Node js", "description": "Expérience : 1 año" },
+          "fr": { "title": "Node js", "description": " Expérience : 1 an" },
+          "zh": { "title": "Node js", "description": "Expérience :：1年" }
+        }
+      }
+    ],
+
+    "languages": [
+      {
+        "imageIconUrl": "images/flags/pk.jpg",
+        "faIcon": null,
+        "value": 100,
+        "locales": {
+          "en": {
+            "title": "Urdu",
+            "description": "Native in both spoken and written Urdu; confident in professional communication."
+          },
+          "es": {
+            "title": "Urdu",
+            "description": "Nativo en urdu hablado y escrito; seguro en la comunicación profesional."
+          },
+          "fr": {
+            "title": "Urdu",
+            "description": "Natif à l'oral et à l'écrit en urdu ; confiant dans la communication professionnelle."
+          },
+          "zh": {
+            "title": "乌尔都语",
+            "description": "在乌尔都语口语和书写方面为母语水平；自信地进行专业沟通。"
+          }
+        }
+      },
+      {
+        "imageIconUrl": "images/flags/en.png",
+        "faIcon": null,
+        "value": 85,
+        "locales": {
+          "en": {
+            "title": "English",
+            "description": "Fluent speaker with excellent communication and writing skills."
+          },
+          "es": {
+            "title": "Inglés",
+            "description": "Hablante fluido con excelentes habilidades de comunicación y escritura."
+          },
+          "fr": {
+            "title": "Anglais",
+            "description": "Locuteur fluent avec d'excellentes compétences en communication et en écriture."
+          },
+          "zh": {
+            "title": "英语",
+            "description": "流利的讲者，具有出色的沟通和写作能力。"
+          }
+        }
+      }
+    ],
+
+    "extra": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-people-group",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Teamwork",
+            "description": "A strong team player who collaborates effectively, communicates clearly, and contributes positively to achieving team goals."
+          },
+          "es": {
+            "title": "Trabajo en Equipo",
+            "description": "Un gran jugador de equipo que colabora eficazmente, comunica claramente y contribuye positivamente al logro de los objetivos del equipo."
+          },
+          "fr": {
+            "title": "Travail d'Équipe",
+            "description": "Un excellent collaborateur qui travaille efficacement en équipe, communique clairement et contribue positivement à l'atteinte des objectifs communs."
+          },
+          "zh": {
+            "title": "团队合作",
+            "description": "优秀的团队成员，有效地协作，清晰地沟通，并积极贡献于实现团队目标。"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-microscope",
+        "value": null,
+        "locales": {
+        "en": {
+          "title": "Web Testing",
+          "description": "Experienced in web testing, ensuring websites are functional, user-friendly, and free of bugs across different browsers and devices."
+        },
+        "es": {
+          "title": "Pruebas Web",
+          "description": "Experto en pruebas web, asegurando que los sitios web sean funcionales, fáciles de usar y estén libres de errores en diferentes navegadores y dispositivos."
+        },
+        "fr": {
+          "title": "Tests Web",
+          "description": "Expérimenté en tests web, garantissant que les sites web sont fonctionnels, conviviaux et sans bogues sur différents navigateurs et appareils."
+        },
+        "zh": {
+          "title": "网页测试",
+          "description": "在网页测试方面经验丰富，确保网站在不同浏览器和设备上功能正常、用户友好且没有漏洞。"
+        }
+    }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Information Visualization",
+            "description": "Able to transform complex data into clear visuals."
+          },
+          "es": {
+            "title": "Visualización de Información",
+            "description": "Capaz de transformar datos complejos en visuales claros."
+          },
+          "fr": {
+            "title": "Visualisation de l'Information",
+            "description": "Capable de transformer des données complexes en visuels clairs."
+          },
+          "zh": {
+            "title": "信息可视化",
+            "description": "能够将复杂的数据转化为清晰的可视化图表。"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-brain",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Problem Solver",
+                "description": "Skilled in identifying issues and finding effective solutions quickly and efficiently."
+            },
+            "es": {
+                "title": "Solucionador de Problemas",
+                "description": "Hábil en identificar problemas y encontrar soluciones efectivas de manera rápida y eficiente."
+            },
+            "fr": {
+                "title": "Résolveur de Problèmes",
+                "description": "Compétent pour identifier les problèmes et trouver des solutions efficaces rapidement et efficacement."
+            },
+            "zh": {
+                "title": "问题解决者",
+                "description": "擅长快速有效地识别问题并找到解决方案。"
+            }
+        }
+      }
+    ]
+  }
+}

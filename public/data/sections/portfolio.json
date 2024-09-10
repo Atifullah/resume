@@ -1,0 +1,273 @@
+{
+  "locales": {
+    "en": {
+      "title": "My <span class='text-primary'>Portfolio</span>",
+      "description": "Explore a selection of my recent projects and creative works."
+    },
+    "es": {
+      "title": "Mi <span class='text-primary'>Portafolio</span>",
+      "description": "Explora una selección de mis proyectos recientes y trabajos creativos."
+    },
+    "fr": {
+      "title": "Mon <span class='text-primary'>Portfolio</span>",
+      "description": "Découvrez une sélection de mes projets récents et œuvres créatives."
+    },
+    "zh": {
+      "title": "我的<span class='text-primary'>作品集</span>",
+      "description": "浏览我最近的一些项目和创意作品。"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "productivity",
+      "locales": {
+        "en": { "title": "Productivity" },
+        "es": { "title": "Productividad" },
+        "fr": { "title": "Productivité" },
+        "zh": { "title": "生产力" }
+      }
+    }
+  ],
+
+  "items": {
+    "productivity": [
+      {
+        "id": "Bitnasdaq",
+        "title": "Bitnasdaq",
+        "logoUrl": "images/portfolio/bitnasdaq.png",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "https://www.bitnasdaq.com/services/downloads",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "https://play.google.com/store/apps/details?id=com.bitnasdaq.exchange&hl=en",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Bitnasdaq</b>  is a trusted and leading cryptocurrency exchange platform where users can buy and sell crypto, just like Binance and Bybit. At DigitalCode, I work as a Vue.js developer on the BitNasdaq project, contributing to the development of this cutting-edge platform that allows users to trade, invest, and manage their digital assets with ease.",
+            "tags": ["Web App", "productivity", "Vue", "focus"]
+          },
+          "es": {
+            "description": "<b>BitNasdaq</b> es una plataforma líder y confiable de intercambio de criptomonedas donde los usuarios pueden comprar y vender cripto, al igual que en Binance y Bybit. En DigitalCode, trabajo como desarrollador de Vue.js en el proyecto BitNasdaq, contribuyendo al desarrollo de esta plataforma de vanguardia que permite a los usuarios comerciar, invertir y gestionar sus activos digitales con facilidad.",
+            "tags": ["aplicación", "productividad", "vue", "concentración"]
+          },
+          "fr": {
+            "description": "<b>BitNasdaq</b> est une plateforme d'échange de cryptomonnaies fiable et leader où les utilisateurs peuvent acheter et vendre des cryptos, comme sur Binance et Bybit. Chez DigitalCode, je travaille en tant que développeur Vue.js sur le projet BitNasdaq, contribuant au développement de cette plateforme de pointe qui permet aux utilisateurs de trader, d'investir et de gérer leurs actifs numériques en toute simplicité.",
+            "tags": ["application", "productivité", "vue", "concentration"]
+          },
+          "zh": {
+            "description": "<b>Bitnasdaq</b> 是一个值得信赖的领先加密货币交易平台，用户可以像在 Binance 和 Bybit 上一样买卖加密货币。在 DigitalCode，我作为 Vue.js 开发人员参与 BitNasdaq 项目的开发，致力于打造这个尖端平台，使用户能够轻松进行交易、投资和管理他们的数字资产。",
+            "tags": ["应用", "生产力", "vue", "专注力"]
+          }
+        }
+      },
+
+      {
+        "id": "OurWallet",
+        "title": "Our Wallet",
+        "logoUrl": "images/portfolio/wallet.jpg",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "https://testflight.apple.com/join/B57cCdXi",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "https://play.google.com/store/apps/details?id=com.ourwallet.app",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Our Wallet</b> is a secure and user-friendly cryptocurrency wallet, designed to help you store, manage, and safeguard your digital assets. With robust security features and a seamless interface, OurWallet makes it easy to send, receive, and monitor your crypto holdings. Whether you're a seasoned trader or new to the world of cryptocurrency, OurWallet offers a reliable solution for managing your digital currency with confidence.I work as a vue js developer for making this website",
+            "tags": ["Web App", "ant design", "nuxt", "productivity"]
+          },
+          "es": {
+            "description": "<b>OurWallet</b>  es una billetera de criptomonedas segura y fácil de usar, diseñada para ayudarte a almacenar, gestionar y proteger tus activos digitales. Con características de seguridad robustas y una interfaz fluida, OurWallet facilita el envío, recepción y monitoreo de tus criptomonedas. Ya seas un trader experimentado o nuevo en el mundo de las criptomonedas, OurWallet ofrece una solución confiable para gestionar tu moneda digital con confianza. Trabajo como desarrollador de Vue.js para crear este sitio web.",
+            "tags": ["aplicación", "organización", "nuxt", "productividad"]
+          },
+          "fr": {
+            "description": "<b>OurWallet</b>  est un portefeuille de cryptomonnaie sécurisé et facile à utiliser, conçu pour vous aider à stocker, gérer et protéger vos actifs numériques. Avec des fonctionnalités de sécurité robustes et une interface fluide, OurWallet vous permet d'envoyer, de recevoir et de surveiller facilement vos avoirs en cryptomonnaie. Que vous soyez un trader chevronné ou un débutant dans le monde des cryptomonnaies, OurWallet offre une solution fiable pour gérer vos devises numériques en toute confiance. Je travaille en tant que développeur Vue.js pour la création de ce site web.",
+            "tags": ["application", "organisation", "nuxt", "productivité"]
+          },
+          "zh": {
+            "description": "<b>OurWallet</b> 是一个安全且易于使用的加密货币钱包，旨在帮助您存储、管理和保护您的数字资产。借助强大的安全功能和无缝的界面，OurWallet 让您可以轻松发送、接收和监控您的加密货币。无论您是经验丰富的交易者还是加密货币的新手，OurWallet 都能为您提供可靠的数字货币管理解决方案。我作为 Vue.js 开发人员负责构建该网站。",
+            "tags": ["应用", "组织", "nuxt", "生产力"]
+          }
+        }
+      },
+
+      {
+        "id": "Directmendate",
+        "title": "DirecMendate",
+        "logoUrl": "images/portfolio/mendate.png",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "https://directmandat.dynumtech.com/",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "https://directmandat.dynumtech.com/",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>DirectMendate</b>is a comprehensive web app designed to make finding nearby rental properties—whether it's free houses, rooms, or shops—quick and easy. The platform allows users to search for available rentals in their vicinity with a user-friendly interface and real-time listings. I worked on this project in collaboration with a foreign client as a React developer, contributing to the design and development of key features. Alongside a talented team, we successfully built this product, ensuring it meets the needs of both property seekers and owners by offering a reliable and seamless experience..",
+            "tags": [
+              "web",
+              "property-management",
+              "french-client",
+              "productivity"
+            ]
+          },
+          "es": {
+            "description": "<b>DirectMendate</b> es una aplicación web completa diseñada para facilitar la búsqueda de propiedades de alquiler cercanas, ya sean casas, habitaciones o tiendas disponibles. La plataforma permite a los usuarios buscar alquileres disponibles en su área con una interfaz fácil de usar y listados en tiempo real. Trabajé en este proyecto en colaboración con un cliente extranjero como desarrollador de React, contribuyendo al diseño y desarrollo de características clave. Junto con un equipo talentoso, logramos construir este producto con éxito, asegurando que satisfaga las necesidades tanto de los buscadores de propiedades como de los propietarios, ofreciendo una experiencia fiable y fluida.",
+            "tags": [
+              "aplicación",
+              "correo electrónico",
+              "comunicación",
+              "productividad"
+            ]
+          },
+          "fr": {
+            "description": "<b>DirectMendate</b> est une application web complète conçue pour faciliter la recherche de propriétés à louer à proximité, qu'il s'agisse de maisons, de chambres ou de boutiques disponibles. La plateforme permet aux utilisateurs de rechercher des locations disponibles dans leur région avec une interface conviviale et des annonces en temps réel. J'ai travaillé sur ce projet en collaboration avec un client étranger en tant que développeur React, contribuant à la conception et au développement des fonctionnalités clés. Avec une équipe talentueuse, nous avons réussi à construire ce produit, veillant à répondre aux besoins des chercheurs de propriétés et des propriétaires en offrant une expérience fiable et fluide.",
+            "tags": [
+              "web",
+              "property-management",
+              "french-client",
+              "productivity"
+            ]
+          },
+          "zh": {
+            "description": "<b>DirectMendate</b> 是您的智是一款全面的网页应用，旨在帮助用户快速找到附近的租赁房产，无论是空置的房屋、房间还是商铺。该平台允许用户通过用户友好的界面和实时列表在其所在区域内搜索可租赁的房产。我作为 React 开发人员与外国客户合作，参与了关键功能的设计和开发。与一个才华横溢的团队一起，我们成功地构建了这个产品，确保它能够满足租房者和房东的需求，提供可靠且流畅的使用体验。",
+            "tags": [
+              "web",
+              "property-management",
+              "french-client",
+              "productivity"
+            ]
+          }
+        }
+      },
+      {
+        "id": "cardiac",
+        "title": "Cardiac Disease Detection",
+        "logoUrl": "images/portfolio/cardiac.jpg",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Cardiac Disease Detection</b>  Developed a cardiac disease detection system designed to assist doctors in diagnosing cardiac problems. The system analyzes patient data collected by healthcare professionals and applies advanced machine learning algorithms to provide accurate predictions. Utilized four supervised learning algorithms—Random Forest, Linear Regression, Gradient Boosting Regressor, and Decision Trees—to evaluate the data and determine the likelihood of cardiac issues. This project demonstrated proficiency in machine learning and data analysis, contributing to improved diagnostic accuracy and patient care.",
+            "tags": ["Web App", "productivity", "Vue", "Machine Learning"]
+          },
+          "es": {
+            "description": "<b>Cardiac Disease Detection</b>Desarrollé un sistema de detección de enfermedades cardíacas diseñado para ayudar a los médicos a diagnosticar problemas cardíacos. El sistema analiza los datos de los pacientes recolectados por profesionales de la salud y aplica algoritmos avanzados de aprendizaje automático para proporcionar predicciones precisas. Se utilizaron cuatro algoritmos de aprendizaje supervisado: Bosque Aleatorio, Regresión Lineal, Regressor de Aumento de Gradiente y Árboles de Decisión para evaluar los datos y determinar la probabilidad de problemas cardíacos. Este proyecto demostró competencia en aprendizaje automático y análisis de datos, contribuyendo a una mayor precisión en el diagnóstico y cuidado del paciente.",
+            "tags": ["web", "productividad", "vue", "Machine Learning"]
+          },
+          "fr": {
+            "description": "<b>Cardiac Disease Detection</b>Développé un système de détection des maladies cardiaques conçu pour aider les médecins à diagnostiquer les problèmes cardiaques. Le système analyse les données des patients collectées par les professionnels de santé et applique des algorithmes avancés d'apprentissage automatique pour fournir des prédictions précises. Utilisation de quatre algorithmes d'apprentissage supervisé : Forêt Aléatoire, Régression Linéaire, Régressseur par Augmentation de Gradient et Arbres de Décision pour évaluer les données et déterminer la probabilité de problèmes cardiaques. Ce projet a démontré une maîtrise de l'apprentissage automatique et de l'analyse des données, contribuant à une meilleure précision des diagnostics et à un meilleur soin des patients.",
+            "tags": ["web", "productivité", "vue", "Machine Learning"]
+          },
+          "zh": {
+            "description": "<b>Cardiac Disease Detection</b>开发了一个心脏疾病检测系统，旨在帮助医生诊断心脏问题。该系统分析医生收集的患者数据，并应用先进的机器学习算法提供准确的预测。使用了四种监督学习算法——随机森林、线性回归、梯度提升回归器和决策树——来评估数据并确定心脏问题的可能性。该项目展示了在机器学习和数据分析方面的能力，有助于提高诊断准确性和患者护理质量。",
+            "tags": ["应用", "生产力", "vue", "Machine Learning"]
+          }
+        }
+      }
+    ],
+
+    "social": [
+      {
+        "id": "findagoalie",
+        "title": "Find a Goalie",
+        "logoUrl": "images/portfolio/project-logo-4.png",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "https://apple.com",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "https://googleplay.com",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Find a Goalie</b> is your go-to app for finding and connecting with goaltenders in your area. Whether you're organizing a pickup hockey game or need a goalie for your team's practice session, this app makes it easy to search for available goaltenders, view their profiles, and send direct messages for collaboration. Get the pads on and let <b>Find a Goalie</b> help you keep the net covered!",
+            "tags": ["app", "sports", "hockey", "goalie"]
+          },
+          "es": {
+            "description": "<b>Find a Goalie</b> es tu aplicación de referencia para encontrar y conectarte con porteros en tu área. Ya sea que estés organizando un partido de hockey improvisado o necesites un portero para la sesión de práctica de tu equipo, esta aplicación facilita la búsqueda de porteros disponibles, ver sus perfiles y enviar mensajes directos para colaborar. ¡Ponte los pads y deja que <b>Find a Goalie</b> te ayude a mantener la portería cubierta!",
+            "tags": ["aplicación", "deporte", "hockey", "portero"]
+          },
+          "fr": {
+            "description": "<b>Find a Goalie</b> est votre application incontournable pour trouver et entrer en contact avec des gardiens de but de votre région. Que vous organisiez un match de hockey improvisé ou ayez besoin d'un gardien pour la séance d'entraînement de votre équipe, cette application facilite la recherche de gardiens de but disponibles, la consultation de leurs profils et l'envoi de messages directs pour la collaboration. Enfilez les pads et laissez <b>Find a Goalie</b> vous aider à garder le filet protégé !",
+            "tags": ["application", "sport", "hockey", "gardien de but"]
+          },
+          "zh": {
+            "description": "<b>Find a Goalie</b> 是您在本地区寻找并与守门员建立联系的首选应用。无论您是组织一场随意曲棍球比赛还是需要一名守门员参加您团队的训练课程，该应用都能轻松搜索可用的守门员、查看他们的个人资料并发送直接消息以便合作。穿上防护设备，让 <b>Find a Goalie</b> 帮助您守住球网！",
+            "tags": ["应用", "运动", "曲棍球", "守门员"]
+          }
+        }
+      },
+
+      {
+        "id": "rockverse",
+        "title": "RockVerse",
+        "logoUrl": "images/portfolio/project-logo-9.png",
+        "links": [
+          {
+            "faIcon": "fa-brands fa-apple",
+            "href": "https://apple.com",
+            "id": "App Store"
+          },
+          {
+            "faIcon": "fa-brands fa-google-play",
+            "href": "https://googleplay.com",
+            "id": "Google Play"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
+            "tags": ["app", "music", "rock", "entertainment"]
+          },
+          "es": {
+            "description": "¡Adéntrate en el electrizante mundo de la música rock con <b>RockVerse</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
+            "tags": ["aplicación", "música", "rock", "entretenimiento"]
+          },
+          "fr": {
+            "description": "Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
+            "tags": ["application", "musique", "rock", "divertissement"]
+          },
+          "zh": {
+            "description": "踏入摇滚音乐的电动世界，感受 <b>RockVerse</b>！这款应用是摇滚音乐爱好者的天堂，提供大量经典和现代摇滚音轨，策划的播放列表以及幕后内容。无论您是铁杆粉丝还是刚刚发现这个音乐流派，<b>RockVerse</b> 都会让您更贴近摇滚乐的核心与灵魂。放大音量，释放摇滚精神！",
+            "tags": ["应用", "音乐", "摇滚", "娱乐"]
+          }
+        }
+      }
+    ]
+  }
+}

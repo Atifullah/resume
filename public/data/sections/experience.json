@@ -1,0 +1,110 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Professional</span> Experience",
+      "description": "A look into my work experience and career journey."
+    },
+
+    "es": {
+      "title": "<span class='text-primary'>Experiencia</span> Profesional",
+      "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+    },
+
+    "fr": {
+      "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+      "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+    },
+
+    "zh": {
+      "title": "<span class='text-primary'>专业</span> 经验",
+      "description": "了解我的工作经验和职业之旅。"
+    }
+  },
+
+  "items": [
+    {
+      "id": "experience_item_1",
+      "place": "@link{places.uxStudio}",
+      "period": ["2024/09", "2024/12"],
+      "locales": {
+        "en": {
+          "title": "MEVN Stack Developer",
+          "description": "Specialized in building and optimizing web applications using the MEVN stack. Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences. Experienced in client dealing and proficient in bidding on projects, ensuring successful project acquisition and execution.",
+          "tags": ["Mevn Stack", "Professional upwork-Bidding", "clients-dealing"]
+        },
+        "es": {
+          "title": "Desarrollador MEVN",
+          "description": "Especializado en la construcción y optimización de aplicaciones web utilizando el stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Enfocado en crear soluciones escalables y eficientes mediante el aprovechamiento de conocimientos basados en datos, gestionando la integración del backend y frontend, y ofreciendo experiencias de usuario fluidas.",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+        },
+        "fr": {
+          "title": "Développeur MEVN",
+          "description": "Spécialisé dans la création et l'optimisation d'applications web en utilisant le stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Axé sur la création de solutions évolutives et efficaces en exploitant les données, en gérant l'intégration backend et frontend, et en offrant des expériences utilisateur sans faille.",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+        },
+        "zh": {
+          "title": "MEVN栈开发者",
+          "description": "专注于使用MEVN栈（MongoDB、Express.js、Vue.js、Node.js）构建和优化Web应用程序。通过利用数据驱动的见解，专注于创建可扩展和高效的解决方案，管理后端和前端集成，并提供无缝的用户体验。",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+        }
+      }
+    },
+
+    {
+        "id": "experience_item_2",
+        "place": "@link{places.adobe}",
+        "period": ["2021/10", "2024/09"],
+        "locales": {
+          "en": {
+            "title": "MEVN Stack Developer",
+            "description": "Specialized in building and optimizing web applications using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js). Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences.",
+            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+          },
+          "es": {
+            "title": "Desarrollador MEVN",
+            "description": "Especializado en la construcción y optimización de aplicaciones web utilizando el stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Enfocado en crear soluciones escalables y eficientes mediante el aprovechamiento de conocimientos basados en datos, gestionando la integración del backend y frontend, y ofreciendo experiencias de usuario fluidas.",
+            "tags": ["Vue.js","ant design", "Node.js", "Express", "MongoDB"]
+          },
+          "fr": {
+            "title": "Développeur MEVN",
+            "description": "Spécialisé dans la création et l'optimisation d'applications web en utilisant le stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Axé sur la création de solutions évolutives et efficaces en exploitant les données, en gérant l'intégration backend et frontend, et en offrant des expériences utilisateur sans faille.",
+            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+          },
+          "zh": {
+            "title": "MEVN栈开发者",
+            "description": "专注于使用MEVN栈（MongoDB、Express.js、Vue.js、Node.js）构建和优化Web应用程序。通过利用数据驱动的见解，专注于创建可扩展和高效的解决方案，管理后端和前端集成，并提供无缝的用户体验。",
+            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+          }
+        }
+      }
+,
+
+    {
+      "id": "experience_item_3",
+      "place": "@link{places.apple}",
+      "period": ["2020/06", "2020/09"],
+      "locales": {
+        "en": {
+          "title": "React Internship",
+          "description": "Hands-on experience with React.js, focusing on building responsive web applications using HTML, CSS, and JavaScript. Gain expertise in Redux for state management and API integration to enhance dynamic functionalities.",
+          "tags": ["HTML", "CSS", "JavaScript", "Redux", "API Integration"]
+        },
+        "es": {
+          "title": "Pasantía en React",
+          "description": "Experiencia práctica con React.js, enfocándose en la construcción de aplicaciones web responsivas utilizando HTML, CSS y JavaScript. Adquiere experiencia en Redux para la gestión del estado y la integración de API para mejorar las funcionalidades dinámicas.",
+          "tags": ["HTML", "CSS", "JavaScript", "Redux", "Integración de API"]
+        },
+        "fr": {
+          "title": "Stage en React",
+          "description": "Expérience pratique avec React.js, en se concentrant sur la création d'applications web réactives utilisant HTML, CSS et JavaScript. Acquérez une expertise en Redux pour la gestion de l'état et l'intégration d'API pour améliorer les fonctionnalités dynamiques.",
+          "tags": ["HTML", "CSS", "JavaScript", "Redux", "Intégration d'API"]
+        },
+        "zh": {
+          "title": "React 实习",
+          "description": "在 React.js 上获得实践经验，专注于使用 HTML、CSS 和 JavaScript 构建响应式网页应用。掌握 Redux 进行状态管理以及 API 集成，以增强动态功能。",
+          "tags": ["HTML", "CSS", "JavaScript", "Redux", "API 集成"]
+        }
+      }
+    }
+  ]
+}

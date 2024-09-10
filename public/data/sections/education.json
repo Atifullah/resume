@@ -1,0 +1,108 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Educational</span> Background",
+      "description": "A glimpse into my academic trajectory and accomplishments."
+    },
+
+    "es": {
+      "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+      "description": "Un vistazo a mi trayectoria académica y logros."
+    },
+
+    "fr": {
+      "title": "Parcours <span class='text-primary'>Éducatif</span>",
+      "description": "Un aperçu de mon parcours académique et de mes réalisations."
+    },
+
+    "zh": {
+      "title": "<span class='text-primary'>教育</span> 背景",
+      "description": "一瞥我的学术轨迹和成就。"
+    }
+  },
+
+  "items": [
+    {
+      "id": "online_course_udacity",
+      "place": "@link{places.udacity}",
+      "period": ["2003/01", "2015/07"],
+
+      "locales": {
+        "en": {
+          "title": "SSC",
+          "description": "Completed my SSC from National School and College Mardan."
+        },
+
+        "es": {
+          "title": "SSC",
+          "description": "Completé mi SSC en la Escuela Nacional y Colegio de Mardan."
+        },
+
+        "fr": {
+          "title": "SSC",
+          "description": "J'ai terminé mon SSC à l'École Nationale et Collège de Mardan."
+        },
+
+        "zh": {
+          "title": "SSC",
+          "description": "从马尔丹国家学校和学院完成了我的SSC."
+        }
+      }
+    },
+
+    {
+      "id": "mardan college",
+      "place": "@link{places.paris}",
+      "period": ["2015/08", "2017/08"],
+
+      "locales": {
+        "en": {
+          "title": "FSC Pre-Engineering",
+          "description": "I have completed my FSC in Software Engineering from Degree College No2 Mardan."
+        },
+
+        "es": {
+          "title": "FSC Pre-Ingeniería",
+          "description": "He completado mi FSC en Ingeniería de Software en el Degree College No2 Mardan."
+        },
+
+        "fr": {
+          "title": "FSC Pré-Ingénierie",
+          "description": "J'ai complété mon FSC en Ingénierie Logicielle au Degree College No2 Mardan."
+        },
+        "zh": {
+          "title": "FSC预工程",
+          "description": "我已在Degree College No2 Mardan完成了FSC的计算机工程课程。"
+        }
+      }
+    },
+
+    {
+      "id": "Capital University Of Science and Technology Islamabad",
+      "place": "@link{places.harvard}",
+      "period": ["2017/09", "2021/10"],
+
+      "locales": {
+        "en": {
+          "title": "Bacholers in Software Engineering",
+          "description": "I have completed my Bachelor’s in Software Engineering from CUST University."
+        },
+
+        "es": {
+          "title": "Licenciatura en Ingeniería de Software",
+          "description": "He completado mi licenciatura en Ingeniería de Software en la Universidad CUST."
+        },
+
+        "fr": {
+          "title": "Licence en Ingénierie Logicielle",
+          "description": "J'ai obtenu ma licence en Ingénierie Logicielle de l'Université CUST."
+        },
+
+        "zh": {
+          "title": "软件工程学士",
+          "description": "我已完成CUST大学的软件工程学士学位。"
+        }
+      }
+    }
+  ]
+}

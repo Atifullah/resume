@@ -1,0 +1,84 @@
+{
+    "name": "Atif Ullah",
+    "profilePictureUrl": "images/pictures/atif.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
+            "role": "Mevn Stack Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
+            "role": "Mevn Stack Developer"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
+            "role": "Mevn Stack Developer"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
+            "role": "MEVN技术栈开发者"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "house 98-A street 90 sector G7-4 islamabad",
+            "valueShort": "islamabad",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "atifullah5599@gmail.com",
+            "valueShort": "atifullah5599@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:atifullah5599@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Atif ullah",
+            "valueShort": "Atifullahkhan",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com/Atifullahkhan"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "https://github.com/atifullah",
+            "valueShort": "https://github.com/atifullah",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/atifullah"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "https://www.instagram.com/atif_jr10",
+            "valueShort": "https://www.instagram.com/atif_jr10",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/atif_jr10"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "https://www.linkedin.com/in/atif-ullah-1934b1216/",
+            "valueShort": "https://www.linkedin.com/in/atif-ullah-1934b1216/",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/atif-ullah-1934b1216"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+923419196800",
+            "valueShort": "+923419196800",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:923419196800"
+        }
+    }
+}

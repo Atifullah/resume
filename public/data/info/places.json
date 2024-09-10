@@ -1,0 +1,79 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/digitalcode.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Digitalcode.dev"}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "images/places/cust.png",
+        "faIcon": "fa-solid fa-building-columns",
+        "locales": {
+            "en": {"name": "CUST Univeristy"}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "images/places/devcubix.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "devcubix"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "harvard": {
+        "logoUrl": "images/places/cust.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "islamabad"},
+            "es": {"name": "islamabad"},
+            "fr": {"name": "islamabad"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+
+    "paris": {
+        "logoUrl": "images/places/degreecollege.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "mardan"},
+            "es": {"name": "mardan"},
+            "fr": {"name": "mardan"},
+            "zh": {"name": "巴黎大学"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/national-school.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "mardan"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "images/places/devcubix.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "devcubix"}
+        }
+    }
+}

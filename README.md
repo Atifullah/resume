@@ -14,7 +14,7 @@ Key features:
 
 1. Clone the repo:
 ```
-git clone https://github.com/ryanbalieiro/resume
+git clone https://github.com/atifullah/resume
 
 2. Go to the root directory of the project and install all dependencies with npm:
 ```
@@ -53,9 +53,6 @@ $dark: #021307; /** changing the 'dark' color to a dark shade of green **/
 $background-color: #f8fff8; 
 ```
 
-Resulting in:
-
-![alt green](screenshots/color-changing-preview.png)
 
 ### 3. Adding and removing languages
 
@@ -202,12 +199,12 @@ Open the `vite.config.js` file and set the base directory for your application. 
 
 ```js
 export default defineConfig({
-  base: '/vue-resume-template/',
+  base: '/resume/',
   plugins: [vue()],
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/vue-resume-template/`, the correct base directory to set is `/vue-resume-template/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://atifullah.github.io/resume/`, the correct base directory to set is `/resume/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
@@ -226,12 +223,6 @@ npm run deploy
 ```
 
 This step serves as a solution to the problem discussed in detail at https://stackoverflow.com/questions/48521177/404-when-reloading-a-vue-website-published-to-github-pages. This command will create a `404.html` file as a copy of `index.html`, so when users access a secondary route (like `/education` or `/skills`), it will redirect them to the Vue App instead of GitHub's default 404 page.
-
-## About
-
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
-
-It's based on the [Bootstrap](https://getbootstrap.com/) framework created by Mark Otto and Jacob Thorton; and the [Vue](https://vuejs.org/) framework created by Evan You.
 
 ## Copyright and License
 

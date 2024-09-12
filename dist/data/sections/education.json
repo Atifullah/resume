@@ -57,23 +57,23 @@
 
       "locales": {
         "en": {
-          "title": "Bachelor's in Graphic Design with UX Emphasis",
-          "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
+          "title": "Bachelor's in Software Engineering",
+          "description": "Graduated with a comprehensive understanding of software engineering principles. Acquired expertise in programming, software development methodologies, and system design, preparing for a career in creating and managing complex software systems."
         },
 
         "es": {
-          "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
-          "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo."
+          "title": "Licenciatura en Ingeniería de Software",
+          "description": "Graduado con un entendimiento integral de los principios de ingeniería de software. Adquirió experiencia en programación, metodologías de desarrollo de software y diseño de sistemas, preparándose para una carrera en la creación y gestión de sistemas de software complejos."
         },
 
         "fr": {
-          "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
-          "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception."
+          "title": "Licence en Ingénierie Logicielle",
+          "description": "Diplômé avec une compréhension approfondie des principes de l'ingénierie logicielle. Expertise acquise en programmation, méthodologies de développement logiciel et conception de systèmes, préparant une carrière dans la création et la gestion de systèmes logiciels complexes."
         },
 
         "zh": {
-          "title": "平面设计学士学位，强调 UX",
-          "description": "毕业于平面设计领域，专攻用户体验设计，掌握了视觉叙事、用户界面设计和协作式设计思维方面的专业知识。"
+          "title": "软件工程学士",
+          "description": "毕业时对软件工程原则有了全面的理解。获得了编程、软件开发方法论和系统设计方面的专业知识，为创建和管理复杂软件系统的职业生涯做好准备。"
         }
       }
     },

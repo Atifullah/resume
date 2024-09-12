@@ -88,7 +88,7 @@
         "id": "alumni_hackaton",
         "place": "@link{places.harvard}",
         "date": "2024/08",
-        "href": "https://harvard.com",
+        "href": "https://leetcode.com/studyplan/30-days-of-javascript/",
         "locales": {
           "en": {
             "title": "Solved 30 Days of JavaScript",
@@ -114,55 +114,25 @@
       {
         "id": "adobe_jam",
         "place": "@link{places.adobe}",
-        "date": "2020/11",
+        "date": "2022/11",
         "href": null,
         "locales": {
           "en": {
-            "title": "1st Place – Adobe Creative Jam",
-            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
+            "title": "Employee of the Month Award",
+            "description": "Received the Employee of the Month Award from DigitalCode for outstanding performance and dedication."
           },
-
           "es": {
-            "title": "1er Lugar - Adobe Creative Jam",
-            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
+            "title": "Empleado del Mes",
+            "description": "Recibí el premio Empleado del Mes de DigitalCode por un desempeño y dedicación sobresalientes."
           },
-
           "fr": {
-            "title": "1ère Place - Adobe Creative Jam",
-            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
+            "title": "Employé du Mois",
+            "description": "J'ai reçu le Prix de l'Employé du Mois de DigitalCode pour une performance et un engagement exceptionnels."
           },
 
           "zh": {
-            "title": "第一名 - Adobe创意盛宴",
-            "description": "在Adobe创意盛宴中获得第一名；展示了卓越的设计和合作。"
-          }
-        }
-      },
-
-      {
-        "id": "article_mention",
-        "place": "@link{places.forbes}",
-        "date": "2023/03",
-        "href": "https://forbes.com",
-        "locales": {
-          "en": {
-            "title": "Article Mention – UX Contribution",
-            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
-          },
-
-          "es": {
-            "title": "Mención en Artículo - Contribución a UX",
-            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
-          },
-
-          "fr": {
-            "title": "Mention d'Article - Contribution UX",
-            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
-          },
-
-          "zh": {
-            "title": "文章提及 - 用户体验贡献",
-            "description": "在福布斯杂志上因出色的用户体验贡献而受到关注；设计和见解产生了影响。"
+            "title": "本月员工奖",
+            "description": "因出色的表现和奉献精神获得了DigitalCode的本月员工奖。"
           }
         }
       }
@@ -171,84 +141,84 @@
     "certifications": [
       {
         "id": "google_cert",
-        "place": "@link{places.google}",
-        "date": "2018/08",
+        "place": "@link{places.harvard}",
+        "date": "2020/03",
         "href": "https://google.com",
         "locales": {
           "en": {
-            "title": "Google UX Design Certification",
-            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+            "title": "Blockchain Course Certificate from Blockchain Council",
+            "description": "Certified by the Blockchain Council in blockchain technology; demonstrated proficiency in blockchain principles and applications."
           },
 
           "es": {
-            "title": "Certificación de Diseño UX de Google",
-            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+            "title": "Certificado del Curso de Blockchain del Consejo de Blockchain",
+            "description": "Certificado por el Consejo de Blockchain en tecnología blockchain; demostró competencia en los principios y aplicaciones de blockchain."
           },
 
           "fr": {
-            "title": "Certification Google UX Design",
-            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+            "title": "Certificat de Cours Blockchain du Conseil Blockchain",
+            "description": "Certifié par le Conseil Blockchain en technologie blockchain ; a démontré sa maîtrise des principes et applications de la blockchain."
           },
 
           "zh": {
-            "title": "Google用户体验设计认证",
-            "description": "通过Google用户体验设计认证；展示了用户中心设计的专业知识。"
+            "title": "来自区块链委员会的区块链课程证书",
+            "description": "获得区块链委员会的区块链技术认证；展示了对区块链原则和应用的熟练掌握。"
           }
         }
       },
 
       {
         "id": "ui_nanodegree",
-        "place": "@link{places.udacity}",
-        "date": "2019/04",
+        "place": "@link{places.adobe}",
+        "date": "2022/04",
         "href": "https://udemy.com",
         "locales": {
           "en": {
-            "title": "UI/UX Nanodegree",
-            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+            "title": "Vue.js Udemy Course Certificate",
+            "description": "Successfully completed the Vue.js course on Udemy, gaining hands-on experience in building dynamic web applications."
           },
 
           "es": {
-            "title": "Nanogrado en UI/UX",
-            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+            "title": "Certificado del Curso de Vue.js en Udemy",
+            "description": "Completó con éxito el curso de Vue.js en Udemy, adquiriendo experiencia práctica en la creación de aplicaciones web dinámicas."
           },
 
           "fr": {
-            "title": "Nanodiplôme UI/UX",
-            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+            "title": "Certificat du Cours Vue.js sur Udemy",
+            "description": "A terminé avec succès le cours Vue.js sur Udemy, acquérant une expérience pratique dans la création d'applications web dynamiques."
           },
 
           "zh": {
-            "title": "UI/UX纳米学位",
-            "description": "在Udemy完成了全面的UI/UX纳米学位；获得了实际技能。"
+            "title": "Vue.js Udemy课程证书",
+            "description": "成功完成了Udemy上的Vue.js课程，获得了构建动态Web应用程序的实际经验。"
           }
         }
       },
 
       {
-        "id": "material_cert",
-        "place": "@link{places.google}",
-        "date": "2020/06",
+        "id": "employee_cert",
+        "place": "@link{places.adobe}",
+        "date": "2024/06",
         "href": "https://google.com",
         "locales": {
           "en": {
-            "title": "Material Design Certification",
-            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+            "title": "Employee Appreciation Certificate",
+            "description": "Awarded by DigitalCode in recognition of outstanding performance and dedication."
           },
 
           "es": {
-            "title": "Certificación de Material Design",
-            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
+            "title": "Certificado de Apreciación del Empleado",
+            "description": "Otorgado por DigitalCode en reconocimiento al rendimiento sobresaliente y dedicación."
           },
 
           "fr": {
-            "title": "Certification Material Design",
-            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+            "title": "Certificat d'Appréciation de l'Employé",
+            "description": "Décerné par DigitalCode en reconnaissance de la performance exceptionnelle et du dévouement."
           },
 
           "zh": {
-            "title": "Material Design认证",
-            "description": "获得了Material Design认证；展示了对现代设计原则的熟练掌握。"
+            "title": "员工表彰证书",
+            "description": "由DigitalCode颁发，以表彰卓越的表现和奉献精神。"
           }
         }
       }

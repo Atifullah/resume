@@ -28,9 +28,13 @@
       "period": ["2024/09", "2024/12"],
       "locales": {
         "en": {
-          "title": "MEVN Stack Developer",
-          "description": "Specialized in building and optimizing web applications using the MEVN stack. Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences. Experienced in client dealing and proficient in bidding on projects, ensuring successful project acquisition and execution.",
-          "tags": ["Mevn Stack", "Professional upwork-Bidding", "clients-dealing"]
+          "title": "Full StackDeveloper",
+          "description": "Specialized in building and optimizing web applications using the Full Stack. Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences. Experienced in client dealing and proficient in bidding on projects, ensuring successful project acquisition and execution.",
+          "tags": [
+            "Full Stack",
+            "Professional upwork-Bidding",
+            "clients-dealing"
+          ]
         },
         "es": {
           "title": "Desarrollador MEVN",
@@ -51,34 +55,32 @@
     },
 
     {
-        "id": "experience_item_2",
-        "place": "@link{places.adobe}",
-        "period": ["2021/10", "2024/09"],
-        "locales": {
-          "en": {
-            "title": "MEVN Stack Developer",
-            "description": "Specialized in building and optimizing web applications using the MEVN stack (MongoDB, Express.js, Vue.js, Node.js). Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences.",
-            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
-          },
-          "es": {
-            "title": "Desarrollador MEVN",
-            "description": "Especializado en la construcción y optimización de aplicaciones web utilizando el stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Enfocado en crear soluciones escalables y eficientes mediante el aprovechamiento de conocimientos basados en datos, gestionando la integración del backend y frontend, y ofreciendo experiencias de usuario fluidas.",
-            "tags": ["Vue.js","ant design", "Node.js", "Express", "MongoDB"]
-          },
-          "fr": {
-            "title": "Développeur MEVN",
-            "description": "Spécialisé dans la création et l'optimisation d'applications web en utilisant le stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Axé sur la création de solutions évolutives et efficaces en exploitant les données, en gérant l'intégration backend et frontend, et en offrant des expériences utilisateur sans faille.",
-            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
-          },
-          "zh": {
-            "title": "MEVN栈开发者",
-            "description": "专注于使用MEVN栈（MongoDB、Express.js、Vue.js、Node.js）构建和优化Web应用程序。通过利用数据驱动的见解，专注于创建可扩展和高效的解决方案，管理后端和前端集成，并提供无缝的用户体验。",
-            "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
-          }
+      "id": "experience_item_2",
+      "place": "@link{places.adobe}",
+      "period": ["2021/10", "2024/09"],
+      "locales": {
+        "en": {
+          "title": "Full StackDeveloper",
+          "description": "Specialized in building and optimizing web applications using the Full Stack(MongoDB, Express.js, Vue.js, Node.js). Focused on creating scalable and efficient solutions by leveraging data-driven insights, managing backend and frontend integration, and delivering seamless user experiences.",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+        },
+        "es": {
+          "title": "Desarrollador MEVN",
+          "description": "Especializado en la construcción y optimización de aplicaciones web utilizando el stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Enfocado en crear soluciones escalables y eficientes mediante el aprovechamiento de conocimientos basados en datos, gestionando la integración del backend y frontend, y ofreciendo experiencias de usuario fluidas.",
+          "tags": ["Vue.js", "ant design", "Node.js", "Express", "MongoDB"]
+        },
+        "fr": {
+          "title": "Développeur MEVN",
+          "description": "Spécialisé dans la création et l'optimisation d'applications web en utilisant le stack MEVN (MongoDB, Express.js, Vue.js, Node.js). Axé sur la création de solutions évolutives et efficaces en exploitant les données, en gérant l'intégration backend et frontend, et en offrant des expériences utilisateur sans faille.",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
+        },
+        "zh": {
+          "title": "MEVN栈开发者",
+          "description": "专注于使用MEVN栈（MongoDB、Express.js、Vue.js、Node.js）构建和优化Web应用程序。通过利用数据驱动的见解，专注于创建可扩展和高效的解决方案，管理后端和前端集成，并提供无缝的用户体验。",
+          "tags": ["Vue.js", "Node.js", "Express", "MongoDB"]
         }
       }
-,
-
+    },
     {
       "id": "experience_item_3",
       "place": "@link{places.apple}",

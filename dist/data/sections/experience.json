@@ -28,8 +28,8 @@
       "period": ["2015/01", "2017/12"],
       "locales": {
         "en": {
-          "title": "Mevn Stack",
-          "description": "I specialize in the MEVN stack, with 3.5 years of experience building crypto exchange platforms, WooCommerce sites, and marketing websites. I focus on creating secure, scalable, and user-friendly applications tailored to client needs.",
+          "title": "Full Stack",
+          "description": "",
           "tags": ["Vue", "Javascript", "ant design", "node js ", "express js"]
         },
         "es": {
@@ -44,7 +44,7 @@
           ]
         },
         "fr": {
-          "title": "MEVN Stack",
+          "title": "Full Stack",
           "description": "Je me spécialise dans le stack MEVN, avec 2 ans d'expérience dans la création de plateformes d'échange de crypto-monnaies, de sites WooCommerce et de sites web marketing. Je me concentre sur la création d'applications sécurisées, évolutives et conviviales, adaptées aux besoins des clients.",
           "tags": ["Vue", "Javascript", "Ant Design", "Node.js", "Express.js"]
         },

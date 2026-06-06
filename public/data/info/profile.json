@@ -5,17 +5,17 @@
   "locales": {
     "en": {
       "credits": "Designed by <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
-      "role": "Mevn Stack Developer"
+      "role": "Full StackDeveloper"
     },
 
     "es": {
       "credits": "Hecho por <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
-      "role": "Mevn Stack Developer"
+      "role": "Full StackDeveloper"
     },
 
     "fr": {
       "credits": "Conçu par <strong><a class='light' href='https://github.com/atifullah'>atifullah</a></strong>",
-      "role": "Mevn Stack Developer"
+      "role": "Full StackDeveloper"
     },
 
     "zh": {
@@ -46,15 +46,15 @@
       "value": "Atif ullah",
       "valueShort": "Atifullahkhan",
       "faIcon": "fa-brands fa-facebook",
-      "href": "https://facebook.com/Atifullahkhan"
+      "href": "https://facebook.com/atifjr10"
     },
 
     "github": {
       "id": "github",
       "value": "https://github.com/atifullah",
-      "valueShort": "https://github.com/atifullah",
+      "valueShort": "https://www.github.com/atifullah",
       "faIcon": "fa-brands fa-github",
-      "href": "https://github.com/atifullah"
+      "href": "https://www.github.com/atifullah"
     },
 
     "instagram": {
@@ -62,7 +62,7 @@
       "value": "https://www.instagram.com/atif_jr10",
       "valueShort": "https://www.instagram.com/atif_jr10",
       "faIcon": "fa-brands fa-instagram",
-      "href": "https://instagram.com/atif_jr10"
+      "href": "https://www.instagram.com/atif_jr10"
     },
 
     "linkedin": {
@@ -70,7 +70,7 @@
       "value": "https://www.linkedin.com/in/atif-ullah-1934b1216/",
       "valueShort": "https://www.linkedin.com/in/atif-ullah-1934b1216/",
       "faIcon": "fa-brands fa-linkedin",
-      "href": "https://linkedin.com/atif-ullah-1934b1216"
+      "href": "https://www.linkedin.com/in/atif-ullah-1934b1216/"
     },
 
     "phone": {
